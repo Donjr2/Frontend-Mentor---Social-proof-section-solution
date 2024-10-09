@@ -112,6 +112,9 @@ body {
   border-radius: 50%;
   margin-right: 18px;
 }
+.name p {
+  color: var(--softPink);
+}
 .profile_area p {
   font-size: 1.03125rem;
   line-height: 1.375rem;
